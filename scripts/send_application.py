@@ -1,3 +1,7 @@
+import smtplib, ssl, os, yaml
+from email.message import EmailMessage
+
+
 with open("metadata/application.yaml") as f:
     app = yaml.safe_load(f)
 
