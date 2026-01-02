@@ -1,0 +1,14 @@
+to_email: hr@example.com
+subject: "Application for DevOps Engineer role"
+
+message: |
+  Hello,
+
+  I am writing to express my interest in the DevOps Engineer role you posted on LinkedIn. With experience in the field and a strong passion for optimizing processes, I am confident in my ability to contribute effectively to your team.
+
+  As an immediate joiner, I am eager to bring my expertise to your organization. Please find my resume attached for your consideration. I look forward to the opportunity to discuss my application further.
+
+  Best regards,
+  Akshay Gale
+
+resume_path: resume/Akshay_Gale_Resume.pdf
