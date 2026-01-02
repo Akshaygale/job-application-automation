@@ -20,7 +20,7 @@ for email in recipients:
 
     with open(app["resume_path"], "rb") as f:
         file_data = f.read()
-        msg.add_attachment(file_data, maintype="application", subtype="pdf", filename="Resume.pdf")
+        msg.add_attachment(file_data, maintype="application", subtype="pdf", filename="Akshay_Gale_2Yr_Exp.pdf")
 
     context = ssl.create_default_context()
     with smtplib.SMTP_SSL("smtp.gmail.com", 465, context=context) as server:
